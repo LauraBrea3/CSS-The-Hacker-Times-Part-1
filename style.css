@@ -51,8 +51,8 @@ li{
 ul{
     list-style: none;
     margin:0;
-    padding-top:5px;
-    padding-bottom:5px;
+    font-family:"Source Sans Pro";
+    font-size: 14px;
 }
 nav ul{
 border-top: 1px solid #eee;
@@ -73,7 +73,8 @@ section{
    text-align:center;
    padding:10px;
    display:inline-block;
-   width:350px
+   width:350px;
+   border-top: 1px solid #eee;
 }
 p{
     text-align:justify;
